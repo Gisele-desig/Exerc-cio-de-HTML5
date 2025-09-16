@@ -41,7 +41,7 @@ p>Plataforma cheia de jogos criados pela comunidade. Criatividade sem limites!</
     <section>
       <h2>🖼️ Galeria</h2>
       <p>Adicione suas imagens favoritas aqui. Crie uma pasta chamada <strong>imagens</strong> e coloque suas fotos lá.</p>
-      <img src="https://github.com/Gisele-desig/Exerc-cio-de-HTML5/blob/main/img/download%20(10).jpg" alt="Imagem exemplo" width="300">
+      <imagem src="https://github.com/Gisele-desig/Exerc-cio-de-HTML5/blob/main/img/download%20(10).jpg" alt="Imagem exemplo" width="300">
     </section>
   </main>
 
@@ -105,4 +105,5 @@ p>Plataforma cheia de jogos criados pela comunidade. Criatividade sem limites!</
 
 </body>
 </html>
+
 
